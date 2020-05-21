@@ -1,3 +1,7 @@
+# How to run ?
+npm install
+npm run dev-server
+
 # HTML
 
 **charset meta tag**
