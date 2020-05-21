@@ -39,3 +39,6 @@ Allows webpack to load CSS assets.
 Take CSS and add it to the DOM by injecting a **<style>** tag
 
 **NOTE:** style-loader should be added before css-loader. Otherwise we end up in having an error.
+
+
+**reference:** https://dev.to/iamismile/how-to-setup-webpack-and-babel-for-react-59ph
