@@ -26,7 +26,7 @@ Transforms JSX to Javascript
 **@babel/core**
 It allows us to run babel from tools like webpack
 
-**@babel-loader**
+**babel-loader**
 It's a webpack plugin. It allows us to teach webpack how to run babel when webpack sees certain files.
 
 # Extra Configurations
